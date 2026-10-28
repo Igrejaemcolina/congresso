@@ -1,6 +1,6 @@
 # Congresso — Consulta de pagamentos
 
-Site estático em HTML, CSS e JavaScript puro, com consulta individual ao Google Apps Script existente. Sem bibliotecas em produção, servidor de aplicação, banco adicional ou dependência do ChatGPT. Nenhuma participante é carregada automaticamente.
+Site estático em HTML, CSS e JavaScript puro, com consulta individual ao Google Apps Script existente. Sem bibliotecas em produção, servidor de aplicação, banco adicional. Nenhuma participante é carregada automaticamente.
 
 A identidade visual acompanha a referência do Congresso das Mulheres: verde floresta, dourado, fundo de papel e ilustrações de colheita, com a marca “Colheita | IGC”. As imagens fornecidas/referenciadas pelo responsável estão em `assets/images/` e são servidas pelo próprio site, sem carregamento externo do Wix. Os títulos usam fontes disponíveis no dispositivo, sem depender de um serviço de fontes. Essa adaptação visual não altera o cadastro, os IDs ou o contrato dos pagamentos.
 
