@@ -1,0 +1,18 @@
+{
+  "name": "congresso-consulta",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Consulta estática individual dos pagamentos do Congresso",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "test": "node --test tests/api.test.mjs",
+    "test:browser": "playwright test",
+    "test:live": "node tools/check-live.mjs",
+    "build": "node tools/package-site.mjs"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.11.1",
+    "@playwright/test": "1.58.2"
+  }
+}
